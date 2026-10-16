@@ -49,8 +49,10 @@ print(new_list)
 #c
 
 #for n in new_list:
+#sumlist = []
 #nandajacent = slice list [nposition:nposition + 1]
-#sum = nandajacent.sum
+#sum = nandajacent.sum()
+#sumlist.append(sum)
 
 
 
